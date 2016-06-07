@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Utils</string>
+    <string name="download_notify_progress">正在下载:%1$d%%</string>
+</resources>
